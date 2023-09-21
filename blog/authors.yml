@@ -1,0 +1,11 @@
+imwito: 
+  name: something
+  
+  url: https://github.com/imwito
+  image_url: https://github.com/imwito.png
+
+Gao Wei:
+  name: Gao Wei
+  title: Docusaurus Core Team
+  url: https://github.com/wgao19
+  image_url: https://github.com/wgao19.png

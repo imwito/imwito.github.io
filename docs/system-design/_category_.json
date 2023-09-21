@@ -1,0 +1,8 @@
+{
+  "label": "System Design",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn how to design systems at scale and prepare for system design interviews."
+  }
+}
